@@ -4,3 +4,11 @@ http://darkpgmr.tistory.com/106
 https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system/notebook
 ＃영화 추천 시스템 시작하기 kernel
 
+https://ko.wikipedia.org/wiki/%EC%BD%94%EC%82%AC%EC%9D%B8_%EC%9C%A0%EC%82%AC%EB%8F%84
+＃코사인 유사도 위키백과
+
+http://docs.likejazz.com/cosine-sim/
+#코사인 유사도의 의미
+
+https://ko.wikipedia.org/wiki/%ED%98%91%EC%97%85_%ED%95%84%ED%84%B0%EB%A7%81
+＃협업 필터링(collaborative filtering) 위키백과
