@@ -1,0 +1,6 @@
+http://darkpgmr.tistory.com/106
+＃SVD(Singular value Decomposition) 설명
+
+https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system/notebook
+＃영화 추천 시스템 시작하기 kernel
+
