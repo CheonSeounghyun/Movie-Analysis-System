@@ -12,3 +12,9 @@ http://docs.likejazz.com/cosine-sim/
 
 https://ko.wikipedia.org/wiki/%ED%98%91%EC%97%85_%ED%95%84%ED%84%B0%EB%A7%81
 ＃협업 필터링(collaborative filtering) 위키백과
+
+https://m.blog.naver.com/a2zygote/220922530433
+＃선형성과 비선형성의 개념
+
+http://blog.naver.com/PostView.nhn?blogId=tjdudwo93&logNo=221051481147
+＃SVM과 Kernel의 의미
