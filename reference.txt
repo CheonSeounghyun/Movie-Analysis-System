@@ -17,10 +17,16 @@ https://m.blog.naver.com/a2zygote/220922530433
 ＃선형성과 비선형성의 개념
 
 http://blog.naver.com/PostView.nhn?blogId=tjdudwo93&logNo=221051481147
-＃SVM과 Kernel의 의미
+＃SVD와 Kernel의 의미
 
 https://proinlab.com/archives/2103
 ＃User-based CF, Item-based CF
 
 http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
 ＃SVD를 이용한 추천 시스템 구현
+
+https://www.draw.io/
+＃플로우 차트 그리기
+
+http://blog.kthdaisy.com:8080/recommendation_system_kthdaisy/
+＃협업 필터링 알고리즘과 SVD
