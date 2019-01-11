@@ -30,3 +30,8 @@ https://www.draw.io/
 
 http://blog.kthdaisy.com:8080/recommendation_system_kthdaisy/
 ＃협업 필터링 알고리즘과 SVD
+
+conda install -c conda-forge scikit-surprise 
+conda install -c conda-forge/label/gcc7 scikit-surprise 
+conda install -c conda-forge/label/cf201901 scikit-surprise 
+＃surprise 모듈 설치
