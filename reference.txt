@@ -35,3 +35,15 @@ conda install -c conda-forge scikit-surprise
 conda install -c conda-forge/label/gcc7 scikit-surprise 
 conda install -c conda-forge/label/cf201901 scikit-surprise 
 ＃surprise 모듈 설치
+
+https://kutar37.tistory.com/37
+＃파이썬 협업필터링 추천 알고리즘 
+
+https://datascienceschool.net/view-notebook/fcd3550f11ac4537acec8d18136f2066/
+＃추천 시스템 알고리즘
+
+http://mjdeeplearning.tistory.com/30
+＃RMSE(평균 제곱근 오차), MAE(평균 절대 오차)
+
+https://surprise.readthedocs.io/en/stable/index.html
+＃surprise 라이브러리 
