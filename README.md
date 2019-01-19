@@ -1,8 +1,8 @@
 # Movie-Recommend-System
 2019-동계 계절학기 OSSP
 
-Author : Cheon Seoung Hyun ,ehwjsx@gmail.com
-Supervisor : Na, In Seop, ypencil@hanmail.net
+Author : Cheon Seoung Hyun ,ehwjsx@gmail.com  
+Supervisor : Na, In Seop, ypencil@hanmail.net  
 Starting Project : 2019.1.4
 
 original kaggle kernel
